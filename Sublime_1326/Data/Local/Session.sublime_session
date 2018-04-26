@@ -866,6 +866,34 @@
 				"selected_items":
 				[
 					[
+						"pr",
+						"prime"
+					],
+					[
+						"is",
+						"isPrime"
+					],
+					[
+						"cn",
+						"curLine"
+					],
+					[
+						"va",
+						"val"
+					],
+					[
+						"c",
+						"cVal"
+					],
+					[
+						"n",
+						"nLines"
+					],
+					[
+						"v",
+						"valueTobePrinted"
+					],
+					[
 						"cha",
 						"charToInt"
 					],
@@ -892,10 +920,6 @@
 					[
 						"ins",
 						"insertOp"
-					],
-					[
-						"pr",
-						"price"
 					],
 					[
 						"cur",
@@ -1002,10 +1026,6 @@
 						"curRow"
 					],
 					[
-						"n",
-						"numOfCC"
-					],
-					[
 						"find",
 						"findNum"
 					],
@@ -1060,10 +1080,6 @@
 					[
 						"di",
 						"distFromSrc"
-					],
-					[
-						"v",
-						"Vertex"
 					],
 					[
 						"Pl",
@@ -1186,10 +1202,6 @@
 						"arrToTree"
 					],
 					[
-						"is",
-						"isValid"
-					],
-					[
 						"b",
 						"board"
 					],
@@ -1244,10 +1256,6 @@
 					[
 						"e",
 						"empty"
-					],
-					[
-						"c",
-						"curParent"
 					],
 					[
 						"In",
@@ -1368,27 +1376,11 @@
 					[
 						"std",
 						"students"
-					],
-					[
-						"be",
-						"beg"
-					],
-					[
-						"net",
-						"netHor"
 					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"file": "/C/Users/User/Desktop/cpp-toolkit/install.bat",
-					"settings":
-					{
-						"buffer_size": 68,
-						"line_ending": "Windows"
-					}
-				}
 			],
 			"build_system": "Packages/User/myCppBuild.sublime-build",
 			"build_system_choices":
@@ -1429,7 +1421,7 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 392.0,
+				"height": 81.0,
 				"last_filter": "ter",
 				"selected_items":
 				[
@@ -1486,6 +1478,18 @@
 			},
 			"file_history":
 			[
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/02_pattern/pattern2.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/02_pattern/simpleInterest.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/02_pattern/largest3.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/02_pattern/isPrime.cpp",
+				"/C/Users/User/Desktop/test.cpp",
+				"/C/Users/User/Desktop/cpp-toolkit1/Sublime_1326/Data/Packages/User/cpp_template.sublime-snippet",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/hi.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/test.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/.gitignore",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/01_fundamentals/hello_world.cpp",
+				"/C/Users/User/Desktop/Launchpad_17_Autumn_Pitampura/01_fundamentals/pattern1.cpp",
+				"/C/Users/User/Desktop/cpp-toolkit/install.bat",
 				"/C/Users/User/Desktop/cpp-toolkit/Sublime_1326/Data/Packages/Terminal/Default (Windows).sublime-keymap",
 				"/C/Users/User/Desktop/notes.txt",
 				"/C/Users/User/Desktop/cpp-toolkit/Sublime_1326/Data/Packages/User/Default (Windows).sublime-keymap",
@@ -1504,7 +1508,6 @@
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/26-Jul_22/dijMain.cpp",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/26-Jul_22/weightedGraph.h",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/15-Jul_15/stackUsingQ.cpp",
-				"/C/Users/User/Desktop/test.cpp",
 				"/C/Users/User/Desktop/cpp-toolkit/Sublime_1326/Data/Packages/User/myCppBuild.sublime-build",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/15-Jul_16/tree.cpp",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/17-Jul_17/genericTree.h",
@@ -1602,18 +1605,7 @@
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/01-Jul_10/subseq.cpp",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/01-Jul_10/printCodes.cpp",
 				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/01-Jul_10/nQueen.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/01-Jul_10/sudoku.cpp",
-				"/C/Users/User/Desktop/Algo_17_Summer_Dwarka/30-Jun_09/out",
-				"/C/Users/User/Desktop/Algo_17_Summer_Dwarka/30-Jun_09/in",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/permut.cpp",
-				"/C/Users/User/Desktop/Algo_17_Summer_Dwarka/30-Jun_09/main.cpp",
-				"/C/Users/User/AppData/Local/Temp/Temp2_Lecture07.zip/Lecture-07/tree_basic.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/strToNum.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/mergeSort.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/towerofHanoi.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/myio.h",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/subseq.cpp",
-				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/28-Jun_09/sumArr.cpp"
+				"/C/Users/User/Desktop/Launchpad2_17_Summer_Pitampura/01-Jul_10/sudoku.cpp"
 			],
 			"find":
 			{
@@ -1666,37 +1658,8 @@
 			"groups":
 			[
 				{
-					"selected": 0,
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"file": "/C/Users/User/Desktop/cpp-toolkit/install.bat",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 68,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Batch File/Batch File.sublime-syntax"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"type": "text"
-						}
 					]
 				},
 				{
@@ -1749,7 +1712,7 @@
 			},
 			"output.exec":
 			{
-				"height": 59.0
+				"height": 46.0
 			},
 			"output.find_results":
 			{
